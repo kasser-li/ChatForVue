@@ -1,0 +1,13 @@
+@import './base.css';
+
+#app {
+  /* max-width: 1280px; */
+  /* margin: 0 auto; */
+  width: 100%;
+  /* padding: 10px; */
+  font-weight: normal;
+}
+
+.el-header{
+  padding: 0 !important;
+}
